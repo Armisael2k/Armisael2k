@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **AWS, CI/CD**
 
-- 👨‍💻 All of my projects are available at [dev-jesuslopez.com](dev-jesuslopez.com)
+- 👨‍💻 All of my projects are available at [dev-jesuslopez.com](https://dev-jesuslopez.com/)
 
-- 📝 I regularly write articles on [blog.dev-jesuslopez.com](blog.dev-jesuslopez.com)
+- 📝 I regularly write articles on [blog.dev-jesuslopez.com](https://blog.dev-jesuslopez.com/)
 
 - 💬 Ask me about **react, redux, dotnet**
 
 - 📫 How to reach me **chuylopez755@gmail.com**
 
-- 📄 Know about my experiences [dev-jesuslopez.com/about](dev-jesuslopez.com/about)
+- 📄 Know about my experiences [dev-jesuslopez.com/about](https://dev-jesuslopez.com/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
