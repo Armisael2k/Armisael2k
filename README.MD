@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jesus</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Driven full-stack developer passionate about coding, proudly Mexican</h3>
 
 - 🌱 I’m currently learning **AWS, CI/CD**
@@ -8,8 +8,6 @@
 - 📝 I regularly write articles on [blog.dev-jesuslopez.com](https://blog.dev-jesuslopez.com/)
 
 - 💬 Ask me about **react, redux, dotnet**
-
-- 📫 How to reach me **chuylopez755@gmail.com**
 
 - 📄 Know about my experiences [dev-jesuslopez.com/about](https://dev-jesuslopez.com/about)
 
